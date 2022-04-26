@@ -1,0 +1,30 @@
+.parent {
+  background-color: aqua;
+  display: flex;
+}
+.box {
+  height: 100px;
+  width: 10%;
+  padding: 20px;
+  float: left;
+}
+.box-1 {
+  /* width: 50%; */
+  background-color: red;
+}
+.box-2 {
+  /* width: 25%; */
+  background-color: pink;
+}
+.box-3 {
+  /* width: 75%; */
+  background-color: green;
+}
+.box-4 {
+  /* width: 60%; */
+  background-color: yellow;
+}
+
+.clear-float {
+  float: left;
+}
